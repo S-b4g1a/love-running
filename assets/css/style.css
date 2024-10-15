@@ -134,6 +134,13 @@ hr {
     border-top: 1px solid #3a3a3a;
 }
 
+#circle-cover-bg {
+    background: url("../images/reasons-image.webp");
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+}
+
 footer {
     background-color: rgb(231, 223, 206);
 }
